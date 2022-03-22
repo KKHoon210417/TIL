@@ -31,3 +31,6 @@
 
 ### JAVA-제어문
 - [JavaFlowControl](https://github.com/KKHoon210417/TIL/tree/master/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/javaFlowControl#%EC%A0%9C%EC%96%B4%EB%AC%B8)
+
+### JAVA-메소드
+- [ProjectMethod](https://github.com/KKHoon210417/TIL/tree/master/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/ProjectMethod#%EB%A9%94%EC%86%8C%EB%93%9C)
