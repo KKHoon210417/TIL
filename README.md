@@ -34,3 +34,12 @@
 
 ### JAVA-메소드
 - [ProjectMethod](https://github.com/KKHoon210417/TIL/tree/master/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/ProjectMethod#%EB%A9%94%EC%86%8C%EB%93%9C)
+
+### JAVA-객체지향
+- [OOP](https://github.com/KKHoon210417/TIL/tree/master/생활코딩/ProjectOOP#객체지향프로그래밍)
+
+### JAVA-상속
+- [Inherited](https://github.com/KKHoon210417/TIL/tree/master/생활코딩/code#상속)
+
+### JAVA-인터페이스
+- [Interface](https://github.com/KKHoon210417/TIL/tree/master/생활코딩/InterfaceApp#인터페이스)
