@@ -43,3 +43,8 @@
 
 ### JAVA-인터페이스
 - [Interface](https://github.com/KKHoon210417/TIL/tree/master/생활코딩/InterfaceApp#인터페이스)
+
+## 스프링 핵심 원리
+본 글은 인프런의 "[스프링 핵심 원리_김영한](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)"을 참조로 작성한 글입니다.
+
+- [스프링 핵심 원리](https://github.com/KKHoon210417/TIL/tree/master/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC_%EC%9B%90%EB%A6%AC_%EA%B8%B0%EB%B3%B8%ED%8E%B8#%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
