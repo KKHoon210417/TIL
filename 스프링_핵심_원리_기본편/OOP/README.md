@@ -62,7 +62,7 @@
     - 소프트웨어 요소는 **확장에는 열려** 있으나 **변경에는 닫혀** 있어야 한다
     - 다형성을 활용하면 된다. 즉, 인터페이스를 구현한 새로운 클래스를 하나 만들어서 새로운 기능을 구현하면 된다.
     
-    ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/38c12bde-9436-409c-bfb4-3cf41805c1fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220323T123120Z&X-Amz-Expires=86400&X-Amz-Signature=c4c22f73b3e542f880037f0247c643d4b5fa4b5b113ca9c1d04de3861663ba36&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+    ![1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/38c12bde-9436-409c-bfb4-3cf41805c1fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220325%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220325T074311Z&X-Amz-Expires=86400&X-Amz-Signature=0b9dda07b3f3e0dce4797e702e115c5abf35d02b6d0391d2604f7d23ae2fbe94&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
     
     - 문제점 - 구현 객체를 변경하려면 클라이언트 코드를 변경해야 한다. 즉, 다형성을 사용했지만 클라이언트의 코드를 변경해야 한다. OCP 원칙을 지킬 수 없다.
     - 해결 방법 - 객체를 생성하고, 연관관계를 맺어주는 별도의 조립, 설정자가 필요하고 이 역할을 하는 것이 Spring 컨테이너이다.
