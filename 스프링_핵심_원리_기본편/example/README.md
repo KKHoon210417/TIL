@@ -29,14 +29,14 @@
     
 - 회원 도메인 협력 관계
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccbbd7f6-a222-4360-9319-23527a3917ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220323T122328Z&X-Amz-Expires=86400&X-Amz-Signature=aea6cfc8c50005f7ef4316b0c789816d74607fd48c67b90eab32dbfb45bdb311&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccbbd7f6-a222-4360-9319-23527a3917ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220325%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220325T074249Z&X-Amz-Expires=86400&X-Amz-Signature=5e7738539ae1a66797a5517ecca1067b1177c099959354b39c1b8ed95ff36f76&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - 회원 클래스 다이어그램
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/09d7206b-d42c-472c-9f97-5c7f7ad56002/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220323T122314Z&X-Amz-Expires=86400&X-Amz-Signature=4dc51d55ca9c7c42f90767ac223f0d83d495e26ace28d063c12d55e884265624&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/09d7206b-d42c-472c-9f97-5c7f7ad56002/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220325%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220325T074208Z&X-Amz-Expires=86400&X-Amz-Signature=92172046e0cb332ae5d86d92ab0a71c5b904c152e206eb63f9b2cc1810b1a6b1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - 회원 객체 다이어그램
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9cbeab1a-bb3c-4e12-b006-e124d211b68c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220323T122338Z&X-Amz-Expires=86400&X-Amz-Signature=7b25a791705449316d1e3c9de8238aeafdb3bea97f1e54d544e36e116946ff32&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9cbeab1a-bb3c-4e12-b006-e124d211b68c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220325%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220325T074150Z&X-Amz-Expires=86400&X-Amz-Signature=76bac3d7d2728a4a66900daacd0d23fc50baf441ffba4a12eb1360314ccdadfb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 이때, 회원 서비스는 ‘**MemberServiceImpl**’입니다.
