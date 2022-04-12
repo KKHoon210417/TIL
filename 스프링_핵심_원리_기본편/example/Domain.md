@@ -22,7 +22,7 @@
 
 ### 2. 역할과 구현체를 분리합니다.
 
-![image](https://user-images.githubusercontent.com/82690689/162867998-782dbaf7-3c06-471b-b4bf-f6b478d5269d.png)
+![image](https://user-images.githubusercontent.com/82690689/162868101-730a64fd-9d1b-4f1f-a362-b906b7ab1ab5.png)
 
 - 역할과 구현체를 분리해서 자유롭게 구현 객체를 조립할 수 있게 설계합니다. 이를 통해 회원 저장소는 물론 할인 정책도 유연하게 변경할 수 있습니다.
 
