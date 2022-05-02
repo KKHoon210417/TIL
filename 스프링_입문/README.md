@@ -28,6 +28,6 @@
 
 ### 웹 개발 기초
 
-- [정적 컨텐츠]()
-- [MVC와 템플릿 엔진(PHP,JSP)]()
-- [API]()
+- [정적 컨텐츠](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/웹개발기초.md#정적-컨텐츠)
+- [MVC와 템플릿 엔진(PHP,JSP)](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/웹개발기초.md#mvc와-템플릿-엔진php-jsp)
+- [API](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/웹개발기초.md#api)
