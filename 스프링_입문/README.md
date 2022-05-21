@@ -51,16 +51,13 @@
 - [회원 서비스](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/예제.md#회원-서비스)
 - [회원 서비스 테스트](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/예제.md#회원-서비스-테스트)
 
-## 스프링 빈과 의존관계
-
-### 컴포넌트 스캔과 자동 의존관계 설정 & 자바 코드로 직접 스프링 빈 등록
+## 컴포넌트 스캔과 자동 의존관계 설정 & 자바 코드로 직접 스프링 빈 등록
 
 - [컴포넌트 스캔과 자동 의존관계 설정](https://github.com/KKHoon210417/TIL/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%9E%85%EB%AC%B8/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%EA%B3%BC%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md#%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94%EA%B3%BC-%EC%9E%90%EB%8F%99-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%84%A4%EC%A0%95)
 - [자바 코드로 직접 스프링 빈 등록하기](https://github.com/KKHoon210417/TIL/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%9E%85%EB%AC%B8/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%EA%B3%BC%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md#%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%A7%81%EC%A0%91-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0)
 
 ## 웹 MVC 개발
-- [홈 화면 추가]()
-- [멤버 등록]()
-- [멤버 조회]()
-
+- [홈 화면 추가](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/웹MVC개발.md#홈-화면-추가)
+- [멤버 등록](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/웹MVC개발.md#멤버-등록---등록-페이지)
+- [멤버 조회](https://github.com/KKHoon210417/TIL/blob/master/스프링_입문/웹MVC개발.md#멤버-조회---멤버-조회)
 
